@@ -16,9 +16,9 @@
     "type": "library",
     "require": {
         "php": ">=5.6",
-        "illuminate/support": "5.8.*",
-        "guzzlehttp/guzzle": "6.*",
-        "google/apiclient": "^1.1"
+        "illuminate/support": "^8.22",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "google/apiclient": "^2.8.3"
     },
     "autoload": {
         "psr-4": {
